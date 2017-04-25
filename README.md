@@ -22,7 +22,11 @@ dubbo日志扩展插件，方便定位并排查异常。
 # 安装
 
 ```
-cd /SSM-DUBBO-FILTER
+git clone https://github.com/crossoverJie/SSM-DUBBO-FILTER.git
+```
+
+```
+cd SSM-DUBBO-FILTER
 ```
 
 ```
