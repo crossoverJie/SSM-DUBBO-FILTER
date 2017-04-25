@@ -42,3 +42,8 @@ mvn install
     <version>1.0.0</version>
 </dependency>
 ```
+# 联系作者
+
+![weixinchat.jpg](https://ooo.0o0.ooo/2017/04/25/58ff4d5fd9fa3.jpg)
+
+
