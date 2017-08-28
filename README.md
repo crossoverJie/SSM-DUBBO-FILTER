@@ -1,3 +1,7 @@
+# 开发
+
+http://crossoverjie.top/2017/04/25/SSM12/
+
 # 预览
 
 ```properties
@@ -22,7 +26,11 @@ dubbo日志扩展插件，方便定位并排查异常。
 # 安装
 
 ```
-cd /SSM-DUBBO-FILTER
+git clone https://github.com/crossoverJie/SSM-DUBBO-FILTER.git
+```
+
+```
+cd SSM-DUBBO-FILTER
 ```
 
 ```
@@ -42,3 +50,8 @@ mvn install
     <version>1.0.0</version>
 </dependency>
 ```
+# 联系作者
+
+![weixinchat.jpg](https://ooo.0o0.ooo/2017/04/25/58ff4d5fd9fa3.jpg)
+
+
